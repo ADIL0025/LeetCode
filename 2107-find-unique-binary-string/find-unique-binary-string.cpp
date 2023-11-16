@@ -1,17 +1,11 @@
 class Solution {
  public:
   string findDifferentBinaryString(vector<string>& nums) {
-    const int bitSize = nums[0].length();
-    const int maxNum = 1 << bitSize;
-    unordered_set<int> numsSet;
+    string ans;
+    
+    for (int i = 0; i < nums.size(); ++i)
+      ans += nums[i][i] == '0' ? '1' : '0';
 
-    for (const string& num : nums)
-      numsSet.insert(stoi(num, nullptr, 2));
-
-    for (int num = 0; num < maxNum; ++num)
-      if (!numsSet.count(num))
-        return std::bitset<16>(num).to_string().substr(16 - bitSize);
-
-    throw;
+    return ans;
   }
 };
