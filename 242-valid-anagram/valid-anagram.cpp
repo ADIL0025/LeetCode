@@ -4,14 +4,16 @@ class Solution {
     if (s.length() != t.length())
       return false;
 
-    vector<int> count(128);
+    vector<int> count(26);
 
     for (const char c : s)
-      ++count[c];
+      ++count[c - 'a'];
 
-    for (const char c : t)
-      if (--count[c] < 0)
+    for (const char c : t) {
+      if (count[c - 'a'] == 0)
         return false;
+      --count[c - 'a'];
+    }
 
     return true;
   }
