@@ -46,6 +46,7 @@ Good luck!
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/ADIL0025/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ADIL0025/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ADIL0025/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ADIL0025/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
@@ -76,4 +77,20 @@ Good luck!
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ADIL0025/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Math
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Binary Search
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Greedy
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
