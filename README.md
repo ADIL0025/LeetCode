@@ -48,6 +48,7 @@ Good luck!
 | [0787-sliding-puzzle](https://github.com/ADIL0025/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ADIL0025/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ADIL0025/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ADIL0025/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/ADIL0025/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/ADIL0025/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -77,6 +78,7 @@ Good luck!
 ## Sorting
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ADIL0025/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ADIL0025/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ADIL0025/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -84,6 +86,7 @@ Good luck!
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ADIL0025/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ADIL0025/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ADIL0025/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ADIL0025/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -113,6 +116,7 @@ Good luck!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ADIL0025/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ADIL0025/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ADIL0025/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ADIL0025/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -130,6 +134,7 @@ Good luck!
 ## Two Pointers
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ADIL0025/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/ADIL0025/LeetCode/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ADIL0025/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
