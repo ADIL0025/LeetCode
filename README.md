@@ -51,6 +51,7 @@ Good luck!
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/ADIL0025/LeetCode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ADIL0025/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ADIL0025/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ADIL0025/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -282,6 +283,7 @@ Good luck!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/ADIL0025/LeetCode/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/ADIL0025/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 ## Ordered Set
 |  |
@@ -309,4 +311,8 @@ Good luck!
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ADIL0025/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ADIL0025/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
