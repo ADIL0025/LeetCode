@@ -63,6 +63,7 @@ Good luck!
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ADIL0025/LeetCode/tree/master/0189-rotate-array) |
 | [0407-trapping-rain-water-ii](https://github.com/ADIL0025/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/ADIL0025/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ADIL0025/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -192,6 +193,7 @@ Good luck!
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ADIL0025/LeetCode/tree/master/0189-rotate-array) |
 | [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ADIL0025/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -229,6 +231,7 @@ Good luck!
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ADIL0025/LeetCode/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ADIL0025/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ADIL0025/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
