@@ -85,6 +85,7 @@ Good luck!
 | [1940-maximum-xor-for-each-query](https://github.com/ADIL0025/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/ADIL0025/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ADIL0025/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/ADIL0025/LeetCode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/ADIL0025/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ADIL0025/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ADIL0025/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -172,6 +173,7 @@ Good luck!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADIL0025/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/ADIL0025/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ADIL0025/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/ADIL0025/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/ADIL0025/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ADIL0025/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ADIL0025/LeetCode/tree/master/3427-special-array-ii) |
@@ -284,6 +286,7 @@ Good luck!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ADIL0025/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/ADIL0025/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ADIL0025/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/ADIL0025/LeetCode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ADIL0025/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ADIL0025/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ADIL0025/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
