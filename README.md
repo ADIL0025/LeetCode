@@ -448,4 +448,8 @@ Good luck!
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ADIL0025/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ADIL0025/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/ADIL0025/LeetCode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
