@@ -451,6 +451,7 @@ Good luck!
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ADIL0025/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ADIL0025/LeetCode/tree/master/0182-duplicate-emails) |
 | [0627-swap-salary](https://github.com/ADIL0025/LeetCode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
