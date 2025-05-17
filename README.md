@@ -64,6 +64,7 @@ Good luck!
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ADIL0025/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ADIL0025/LeetCode/tree/master/0189-rotate-array) |
 | [0407-trapping-rain-water-ii](https://github.com/ADIL0025/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/ADIL0025/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -141,6 +142,7 @@ Good luck!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ADIL0025/LeetCode/tree/master/0075-sort-colors) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ADIL0025/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/ADIL0025/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -241,6 +243,7 @@ Good luck!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ADIL0025/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ADIL0025/LeetCode/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ADIL0025/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
