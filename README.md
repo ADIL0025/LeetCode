@@ -391,6 +391,7 @@ Good luck!
 | [1025-minimum-cost-for-tickets](https://github.com/ADIL0025/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ADIL0025/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADIL0025/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/ADIL0025/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/ADIL0025/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ADIL0025/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ADIL0025/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
