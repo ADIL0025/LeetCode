@@ -64,6 +64,7 @@ Good luck!
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ADIL0025/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ADIL0025/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ADIL0025/LeetCode/tree/master/0189-rotate-array) |
 | [0407-trapping-rain-water-ii](https://github.com/ADIL0025/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -158,6 +159,7 @@ Good luck!
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ADIL0025/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0952-word-subsets](https://github.com/ADIL0025/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ADIL0025/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -301,6 +303,7 @@ Good luck!
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ADIL0025/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/ADIL0025/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/ADIL0025/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/ADIL0025/LeetCode/tree/master/0854-making-a-large-island) |
