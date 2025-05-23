@@ -121,6 +121,7 @@ Good luck!
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ADIL0025/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ADIL0025/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ADIL0025/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ADIL0025/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/ADIL0025/LeetCode/tree/master/3321-type-of-triangle) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ADIL0025/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -141,6 +142,7 @@ Good luck!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ADIL0025/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ADIL0025/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ADIL0025/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ADIL0025/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ADIL0025/LeetCode/tree/master/3394-minimum-array-end) |
 ## Sorting
@@ -156,6 +158,7 @@ Good luck!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ADIL0025/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ADIL0025/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ADIL0025/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ADIL0025/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/ADIL0025/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
@@ -246,6 +249,7 @@ Good luck!
 | [2509-minimize-xor](https://github.com/ADIL0025/LeetCode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ADIL0025/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/ADIL0025/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Number Theory
 |  |
@@ -408,6 +412,7 @@ Good luck!
 | [2164-two-best-non-overlapping-events](https://github.com/ADIL0025/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ADIL0025/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ADIL0025/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Ordered Set
 |  |
 | ------- |
@@ -419,6 +424,7 @@ Good luck!
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ADIL0025/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ADIL0025/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ADIL0025/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ADIL0025/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
