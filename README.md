@@ -171,6 +171,7 @@ Good luck!
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ADIL0025/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/ADIL0025/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ADIL0025/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ADIL0025/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ADIL0025/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ADIL0025/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -187,6 +188,7 @@ Good luck!
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ADIL0025/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ADIL0025/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ADIL0025/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ADIL0025/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ADIL0025/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ADIL0025/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -366,6 +368,7 @@ Good luck!
 | [0684-redundant-connection](https://github.com/ADIL0025/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ADIL0025/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ADIL0025/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ADIL0025/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/ADIL0025/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ADIL0025/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ADIL0025/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -413,6 +416,7 @@ Good luck!
 | [1025-minimum-cost-for-tickets](https://github.com/ADIL0025/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ADIL0025/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADIL0025/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ADIL0025/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ADIL0025/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/ADIL0025/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ADIL0025/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -478,6 +482,7 @@ Good luck!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ADIL0025/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ADIL0025/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ADIL0025/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Database
 |  |
@@ -487,4 +492,8 @@ Good luck!
 | [0596-classes-more-than-5-students](https://github.com/ADIL0025/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/ADIL0025/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/ADIL0025/LeetCode/tree/master/0627-swap-salary) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ADIL0025/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
