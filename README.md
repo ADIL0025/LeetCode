@@ -67,6 +67,7 @@ Good luck!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ADIL0025/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ADIL0025/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/ADIL0025/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ADIL0025/LeetCode/tree/master/0189-rotate-array) |
 | [0407-trapping-rain-water-ii](https://github.com/ADIL0025/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/ADIL0025/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -249,6 +250,7 @@ Good luck!
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/ADIL0025/LeetCode/tree/master/0135-candy) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ADIL0025/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/ADIL0025/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/ADIL0025/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
