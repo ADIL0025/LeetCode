@@ -61,6 +61,7 @@ Good luck!
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ADIL0025/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ADIL0025/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ADIL0025/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ADIL0025/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/ADIL0025/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ADIL0025/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADIL0025/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -187,6 +188,7 @@ Good luck!
 | [2685-first-completely-painted-row-or-column](https://github.com/ADIL0025/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ADIL0025/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ADIL0025/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ADIL0025/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ADIL0025/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -265,6 +267,7 @@ Good luck!
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ADIL0025/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ADIL0025/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/ADIL0025/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Number Theory
 |  |
@@ -292,6 +295,7 @@ Good luck!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ADIL0025/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ADIL0025/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ADIL0025/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ADIL0025/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -318,6 +322,7 @@ Good luck!
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ADIL0025/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/ADIL0025/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ADIL0025/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ADIL0025/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ADIL0025/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ADIL0025/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Queue
