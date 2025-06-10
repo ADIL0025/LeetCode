@@ -54,6 +54,7 @@ Good luck!
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADIL0025/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ADIL0025/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ADIL0025/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ADIL0025/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ADIL0025/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ADIL0025/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ADIL0025/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -183,6 +184,7 @@ Good luck!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ADIL0025/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ADIL0025/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ADIL0025/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ADIL0025/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ADIL0025/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ADIL0025/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ADIL0025/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -267,6 +269,7 @@ Good luck!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ADIL0025/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ADIL0025/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/ADIL0025/LeetCode/tree/master/2509-minimize-xor) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ADIL0025/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ADIL0025/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -297,6 +300,7 @@ Good luck!
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ADIL0025/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ADIL0025/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ADIL0025/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ADIL0025/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ADIL0025/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ADIL0025/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
