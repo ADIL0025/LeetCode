@@ -241,6 +241,7 @@ Good luck!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ADIL0025/LeetCode/tree/master/0189-rotate-array) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ADIL0025/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ADIL0025/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ADIL0025/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -277,6 +278,7 @@ Good luck!
 | [2509-minimize-xor](https://github.com/ADIL0025/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ADIL0025/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ADIL0025/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ADIL0025/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ADIL0025/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
