@@ -241,6 +241,7 @@ Good luck!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ADIL0025/LeetCode/tree/master/0189-rotate-array) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ADIL0025/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ADIL0025/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/ADIL0025/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ADIL0025/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -270,6 +271,7 @@ Good luck!
 | [0135-candy](https://github.com/ADIL0025/LeetCode/tree/master/0135-candy) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ADIL0025/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/ADIL0025/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ADIL0025/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/ADIL0025/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/ADIL0025/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ADIL0025/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
