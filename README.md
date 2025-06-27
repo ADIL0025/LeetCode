@@ -48,6 +48,7 @@ Good luck!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ADIL0025/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ADIL0025/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ADIL0025/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ADIL0025/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ADIL0025/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/ADIL0025/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ADIL0025/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -216,6 +217,7 @@ Good luck!
 | [1396-count-servers-that-communicate](https://github.com/ADIL0025/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ADIL0025/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ADIL0025/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ADIL0025/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ADIL0025/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ADIL0025/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ADIL0025/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -293,6 +295,7 @@ Good luck!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ADIL0025/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/ADIL0025/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/ADIL0025/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ADIL0025/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ADIL0025/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ADIL0025/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ADIL0025/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -523,6 +526,7 @@ Good luck!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ADIL0025/LeetCode/tree/master/0494-target-sum) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ADIL0025/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Trie
 |  |
 | ------- |
@@ -578,6 +582,7 @@ Good luck!
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ADIL0025/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ADIL0025/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ADIL0025/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADIL0025/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
