@@ -82,6 +82,7 @@ Good luck!
 | [0407-trapping-rain-water-ii](https://github.com/ADIL0025/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/ADIL0025/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ADIL0025/LeetCode/tree/master/0494-target-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/ADIL0025/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ADIL0025/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ADIL0025/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ADIL0025/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -173,6 +174,7 @@ Good luck!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ADIL0025/LeetCode/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/ADIL0025/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ADIL0025/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ADIL0025/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -194,6 +196,7 @@ Good luck!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ADIL0025/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/ADIL0025/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0952-word-subsets](https://github.com/ADIL0025/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ADIL0025/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ADIL0025/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -219,6 +222,7 @@ Good luck!
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ADIL0025/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1396-count-servers-that-communicate](https://github.com/ADIL0025/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ADIL0025/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ADIL0025/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -249,6 +253,7 @@ Good luck!
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ADIL0025/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ADIL0025/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/ADIL0025/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ADIL0025/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
