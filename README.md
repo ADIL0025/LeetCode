@@ -68,6 +68,7 @@ Good luck!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ADIL0025/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/ADIL0025/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ADIL0025/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ADIL0025/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ADIL0025/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ADIL0025/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ADIL0025/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -247,6 +248,7 @@ Good luck!
 | [2358-number-of-ways-to-split-array](https://github.com/ADIL0025/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ADIL0025/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/ADIL0025/LeetCode/tree/master/3427-special-array-ii) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ADIL0025/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ADIL0025/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ADIL0025/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ADIL0025/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -506,6 +508,7 @@ Good luck!
 | [2562-count-ways-to-build-good-strings](https://github.com/ADIL0025/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ADIL0025/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ADIL0025/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Ordered Set
 |  |
 | ------- |
