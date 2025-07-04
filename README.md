@@ -172,6 +172,7 @@ Good luck!
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ADIL0025/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ADIL0025/LeetCode/tree/master/3394-minimum-array-end) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ADIL0025/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ADIL0025/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +281,7 @@ Good luck!
 | [3321-type-of-triangle](https://github.com/ADIL0025/LeetCode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ADIL0025/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ADIL0025/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ADIL0025/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ADIL0025/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ADIL0025/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Binary Search
@@ -610,4 +612,5 @@ Good luck!
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ADIL0025/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ADIL0025/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
