@@ -601,6 +601,7 @@ Good luck!
 | [0596-classes-more-than-5-students](https://github.com/ADIL0025/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/ADIL0025/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/ADIL0025/LeetCode/tree/master/0627-swap-salary) |
+| [1258-article-views-i](https://github.com/ADIL0025/LeetCode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ADIL0025/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Memoization
 |  |
