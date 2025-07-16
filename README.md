@@ -155,6 +155,7 @@ Good luck!
 | [3321-type-of-triangle](https://github.com/ADIL0025/LeetCode/tree/master/3321-type-of-triangle) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ADIL0025/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ADIL0025/LeetCode/tree/master/3427-special-array-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ADIL0025/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ADIL0025/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ADIL0025/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ADIL0025/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -529,6 +530,7 @@ Good luck!
 | [2562-count-ways-to-build-good-strings](https://github.com/ADIL0025/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ADIL0025/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ADIL0025/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ADIL0025/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ADIL0025/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Ordered Set
 |  |
