@@ -122,6 +122,7 @@ Good luck!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ADIL0025/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/ADIL0025/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ADIL0025/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADIL0025/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ADIL0025/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ADIL0025/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ADIL0025/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -397,6 +398,7 @@ Good luck!
 | [1917-maximum-average-pass-ratio](https://github.com/ADIL0025/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/ADIL0025/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ADIL0025/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADIL0025/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ADIL0025/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ADIL0025/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ADIL0025/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -527,6 +529,7 @@ Good luck!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ADIL0025/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ADIL0025/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/ADIL0025/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ADIL0025/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ADIL0025/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ADIL0025/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ADIL0025/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
