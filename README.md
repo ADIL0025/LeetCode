@@ -41,6 +41,7 @@ Good luck!
 | ------- |
 | [0952-word-subsets](https://github.com/ADIL0025/LeetCode/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/ADIL0025/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ADIL0025/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ADIL0025/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/ADIL0025/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/ADIL0025/LeetCode/tree/master/1524-string-matching-in-an-array) |
